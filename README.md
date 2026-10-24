@@ -51,13 +51,9 @@ The research evaluated:
 
 ## Product Screenshots
 
-### AI Visibility Dashboard
+![KLEOS Dashboard](screenshots/KLEO-%20dashboard.png)
 
-![KLEOS Dashboard](screenshots/kleos-dashboard.png)
-
-### AI Search Discovery
-
-![KLEOS AI Discovery](screenshots/kleos-ai-discovery.png)
+![KLEOS AI Discovery](screenshots/KLEO-%20AI%20discovery.png)
 
 ## Strategic Recommendations
 
