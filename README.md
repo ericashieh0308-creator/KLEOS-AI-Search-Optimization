@@ -67,10 +67,16 @@ Our analysis identified opportunities to:
 
 These recommendations are proposed optimization opportunities rather than experimentally validated improvements.
 
+
 ## My Contribution
 
-This was a collaborative hackathon project. My portfolio highlights the business analytics and strategic problem-solving aspects of the team's work, including research interpretation, competitive analysis, and translating findings into actionable business recommendations.
+My primary responsibilities in this collaborative hackathon project included:
 
+- **Market Research:** Researched local restaurant positioning and customer search behavior to understand opportunities in AI-powered restaurant discovery.
+- **Competitive Analysis:** Benchmarked Café Athena against four competing restaurants, comparing AI recommendation frequency, relative rankings, and search visibility gaps.
+- **AI Testing:** Tested five customer-intent queries across ChatGPT and Claude, evaluated 10 AI-generated responses, and identified patterns to support actionable optimization recommendations.
+
+My work focused on translating AI testing results and competitive research into business insights and strategic recommendations.
 ## Project Deliverables
 
 - Hackathon final presentation
